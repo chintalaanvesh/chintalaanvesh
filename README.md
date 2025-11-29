@@ -12,4 +12,4 @@ I like building practical AI-powered tools and automations for real-life problem
 - OpenAI / LLMs, APIs
 - Google Sheets, automation workflows
 
-If you want to see something fun, start here 👉 [Zomato Spend Analyzer](./link-will-go-here)
+If you want to see something fun, start here 👉 [Zomato Spend Analyzer](https://github.com/chintalaanvesh/zomato-spend-analyzer)
