@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm Anvesh
 
-<!--
-**chintalaanvesh/chintalaanvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building practical AI-powered tools and automations for real-life problems.
 
-Here are some ideas to get you started:
+**What I'm working on:**
+- 🤖 Zomato Spend Analyzer – n8n + LLM + Telegram alerts + Google Sheets
+- 🧠 AI agents for personal productivity and analytics
+- 📊 Data/AI experiments around behaviour, spending & habits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech & Tools:**
+- n8n, Python
+- OpenAI / LLMs, APIs
+- Google Sheets, automation workflows
+
+If you want to see something fun, start here 👉 [Zomato Spend Analyzer](./link-will-go-here)
