@@ -10,6 +10,6 @@ I like building practical AI-powered tools and automations for real-life problem
 **Tech & Tools:**
 - n8n, Python
 - OpenAI / LLMs, APIs
-- Google Sheets, automation workflows
+- Automation workflows
 
 If you want to see something fun, start here 👉 [Zomato Spend Analyzer](https://github.com/chintalaanvesh/zomato-spend-analyzer)
