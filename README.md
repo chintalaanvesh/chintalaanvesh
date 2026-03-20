@@ -2,7 +2,7 @@
 
 **Building AI agents and automation systems that work end-to-end.**
 
-I design and ship systems that connect language models to real workflows — multimodal data pipelines, intelligent job-matching agents, automated content engines. My work sits at the intersection of product thinking and applied AI engineering.
+I design and ship systems that connect language models to real workflows - multimodal data pipelines, intelligent job-matching agents, automated content engines. My work sits at the intersection of product thinking and applied AI engineering.
 
 ---
 
