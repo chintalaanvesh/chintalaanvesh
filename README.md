@@ -29,6 +29,13 @@ Fully automated content pipeline — from RSS discovery and LLM-scored relevance
 
 ---
 
+### [Ad Variable Extraction](https://github.com/chintalaanvesh/ad-variable-extraction)
+End-to-end pipeline for analyzing ad creative performance. Extracts video frames from Cloudinary, runs them through Claude Vision and Claude Text to score 10 creative variables, and writes the results back to Google Sheets.
+
+`n8n` `Claude Vision` `Claude API` `Cloudinary` `Google Sheets`
+
+---
+
 ### [Zomato Spend Analyzer](https://github.com/chintalaanvesh/zomato-spend-analyzer)
 Automated food spend tracker. Extracts invoices, detects spending patterns, and delivers budget alerts via Telegram.
 
